@@ -1,0 +1,9 @@
+/* CSS for gencourseai_xblock */
+
+.gencourseai_block .count {
+    font-weight: bold;
+}
+
+.gencourseai_block p {
+    cursor: pointer;
+}
